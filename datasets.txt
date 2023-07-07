@@ -1,0 +1,4 @@
+UAVid_aug        - 1305 RGB and semantic images
+UAVid_aug_sdiv   - 1305 RGB and semantic images
+WildUAV_aug      - 4359 RGB, semantic, and depth images
+WildUAV_aug_sdiv - 6210 RGB, semantic, and depth images
