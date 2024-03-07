@@ -22,19 +22,16 @@ Before downloading and using this data please read [license.pdf](license.pdf) an
 The data itself can be accessed at [this link](https://forms.office.com/e/7e3RnXfKJD). 
 (The UAVid depth images will be added soon)
 
-If you use or find our dataset useful, please cite the associated [paper](link_to_paper):link::
+If you use or find our dataset useful, please cite the associated [paper]([link_to_paper](https://ieeexplore.ieee.org/document/10461075)):link::
 
 
 ```bibtex
-@ARTICLE{10461075,
+@ARTICLE{chiciudean2024data,
   author={Chiciudean, Vivian and Florea, Horatiu and Blaga, Bianca-Cerasela-Zelia and Beche, Radu and Oniga, Florin and Nedevschi, Sergiu},
   journal={IEEE Transactions on Intelligent Vehicles}, 
   title={Data Augmentation for Environment Perception with Unmanned Aerial Vehicles}, 
   year={2024},
-  volume={},
-  number={},
   pages={1-15},
-  keywords={semantic images;UAV;data augmentation;image generation;aerial images;Z-Buffer;Depth Buffer;perspective projection;virtual camera},
   doi={10.1109/TIV.2024.3374117}}
 ```
 
