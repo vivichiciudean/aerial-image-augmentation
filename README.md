@@ -22,7 +22,8 @@ Before downloading and using this data please read [license.pdf](license.pdf) an
 The data itself can be accessed at [this link](https://forms.office.com/e/7e3RnXfKJD). 
 (The UAVid depth images will be added soon)
 
-If you use or find our dataset useful, please cite the associated [paper]([link_to_paper](https://ieeexplore.ieee.org/document/10461075)):link::
+If you use or find our dataset useful, please cite the associated [paper](https://ieeexplore.ieee.org/document/10461075)
+:link::
 
 
 ```bibtex
