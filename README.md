@@ -1,6 +1,8 @@
 # Data Augmentation for Aerial Images
 
-[[`Paper`](https://ieeexplore.ieee.org/document/10461075)] [[`Dataset`](https://forms.office.com/e/7e3RnXfKJD)]
+[[`Peer-Reviewed Manuscript`](https://users.utcluj.ro/~vivianc/papers/TIV3374117.pdf)] 
+[[`IEEE Link to Paper`](https://ieeexplore.ieee.org/document/10461075)] 
+[[`Dataset`](https://forms.office.com/e/7e3RnXfKJD)]
 
 **Generated images from WildUAV - novel views**
 
